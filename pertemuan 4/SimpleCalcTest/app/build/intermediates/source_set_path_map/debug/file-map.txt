@@ -1,0 +1,12 @@
+com.example.android.SimpleCalcTest.app-constraint-layout-1.0.2-0 C:\Users\ACER\.gradle\caches\transforms-3\8332ce234dea42ddc759e19800ed4038\transformed\constraint-layout-1.0.2\res
+com.example.android.SimpleCalcTest.app-support-compat-26.1.0-1 C:\Users\ACER\.gradle\caches\transforms-3\a01404d236d72d166413437863cf9249\transformed\support-compat-26.1.0\res
+com.example.android.SimpleCalcTest.app-support-media-compat-26.1.0-2 C:\Users\ACER\.gradle\caches\transforms-3\a2a032a7a3de7780bde5ddce018f0722\transformed\support-media-compat-26.1.0\res
+com.example.android.SimpleCalcTest.app-appcompat-v7-26.1.0-3 C:\Users\ACER\.gradle\caches\transforms-3\fd71e33ae6edb161c3a7e881b97fe6e6\transformed\appcompat-v7-26.1.0\res
+com.example.android.SimpleCalcTest.app-pngs-4 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\generated\res\pngs\debug
+com.example.android.SimpleCalcTest.app-resValues-5 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\generated\res\resValues\debug
+com.example.android.SimpleCalcTest.app-rs-6 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\generated\res\rs\debug
+com.example.android.SimpleCalcTest.app-mergeDebugResources-7 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.SimpleCalcTest.app-mergeDebugResources-8 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.SimpleCalcTest.app-merged_res-9 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\build\intermediates\merged_res\debug
+com.example.android.SimpleCalcTest.app-debug-10 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\src\debug\res
+com.example.android.SimpleCalcTest.app-main-11 D:\MuhammadAdeFirdaus_E020320045_5BMI\SimpleCalcTest\app\src\main\res

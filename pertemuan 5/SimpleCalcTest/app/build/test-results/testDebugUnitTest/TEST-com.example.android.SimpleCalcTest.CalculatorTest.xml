@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.SimpleCalcTest.CalculatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-03T02:27:48" hostname="LAPTOP-H94PALV2" time="0.023">
+  <properties/>
+  <testcase name="addTwoNumbers" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.011"/>
+  <testcase name="subTwoNumbers" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersBignums" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersNegative" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="mulTwoNumbers" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.001"/>
+  <testcase name="subWorksWithNegativeResult" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="divTwoNumbers" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersFloats" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="divByZeroThrows" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersWorksWithNegativeResult" classname="com.example.android.SimpleCalcTest.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

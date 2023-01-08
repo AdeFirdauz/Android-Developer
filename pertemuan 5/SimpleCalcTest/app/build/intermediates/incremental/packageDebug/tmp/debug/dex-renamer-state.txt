@@ -1,0 +1,4 @@
+#Thu Nov 03 14:04:16 SGT 2022
+base.0=D\:\\MuhammadAdeFirdaus_E020320045_5BMI\\SimpleCalcTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

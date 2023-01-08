@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoActivities Lifecycle Challenge</string>
+    <string name="tambah_item">Tambah Item</string>
+    <string name="keju">Keju</string>
+    <string name="susu">susu</string>
+    <string name="nasi">nasi</string>
+    <string name="ikan">ikan</string>
+    <string name="kirim">Kirim</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two Activities Lifecycle Homework</string>
+    <string name="this_is_an_edit_text">this is an edit text</string>
+    <string name="count">Count</string>
+</resources>
